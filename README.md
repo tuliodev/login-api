@@ -25,7 +25,7 @@ $ git clone https://github.com/tuliodev/login-api.git
 
 $ npm instal
 
-Edit database/connection.ts
+Edit src/database/connection.ts
 
 npm run knex:migrate
 
