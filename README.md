@@ -22,15 +22,16 @@
 # How to use 
 
 $ git clone https://github.com/tuliodev/login-api.git
-
+```
 $ npm instal
-
+```
 Edit src/database/connection.ts
-
+```
 npm run knex:migrate
-
+```
+```
 $ npm run dev
-
+```
 Access the application at http://localhost:3333
 
 
